@@ -1,13 +1,12 @@
 # Welcome to @duke-maosa's GitHub Profile! 👋
 
-Greetings! I'm Duke Maosa, a dedicated full-stack developer with a passion for technology and a hunger for learning. Here's a deeper insight into who I am:
+Greetings! I'm Duke , a dedicated full-stack developer with a passion for technology and a hunger for learning. Here's a deeper insight into who I am:
 
 ## About Me
 
-💻 **Aspiring Full-Stack Developer**  
+💻 **Software Developer**  
 🎨 **Background in Design**  
-💡 **Problem Solver**  
-🌱 **Continuous Learner**  
+💡 **Problem Solver**   
 💼 **Seeking Opportunities**  
 💬 **Open to Collaboration**  
 
